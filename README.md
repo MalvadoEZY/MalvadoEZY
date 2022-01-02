@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, MalvadoEZY</h1>
+<p align="center"> <img src="https://photos.app.goo.gl/o2iXXyxfXmyessEL8" alt="malvadoezy" /> </p>
+
 <h3 align="center">Im a Self taught programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malvadoezy&label=Profile%20views&color=0e75b6&style=flat" alt="malvadoezy" /> </p>
