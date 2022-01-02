@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, MalvadoEZY</h1>
 <p align="center"> <img src="https://lh3.googleusercontent.com/pw/AM-JKLV6bDMHko6GgJiRSEt1Wt6LHO2oJBFJyixkoVFt7lcA4_Fo_9uxlinZfcY7xYk0Q2O1U5n4BZ4CG7p6-3H2uTt_cq_Atu8dk40GjjQ_oXwvLcjO43XH_iHRKlvkuSGyKXmh1CPv6A-5qssZuNO033gG=w850-h220-no?authuser=1" alt="malvadoezy" /> </p>
 
 <h3 align="center">Im a Self taught programmer</h3>
