@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malvadoezy&label=Profile%20views&color=0e75b6&style=flat" alt="malvadoezy" /> </p>
 
-- 🔭 I’m currently working on **JustRobbers**      <img src="https://wakatime.com/badge/user/c8dbad0a-9f32-401b-a7f3-6b37eb0e17df/project/3a5f6523-e327-47b6-960a-36b04517a7e7.svg" alt="wakatime">
-
 - 👯 I’m looking to collaborate on [uRP](https://github.com/Underground-Roleplay/framework)       <img src="https://wakatime.com/badge/github/MalvadoEZY/framework.svg" alt="wakatime">
 
 - 👨‍💻 All of my projects are available at [https://github.com/MalvadoEZY](https://github.com/MalvadoEZY)
