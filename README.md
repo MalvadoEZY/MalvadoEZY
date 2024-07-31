@@ -3,8 +3,7 @@
 <h3 align="center">Im a Self taught programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malvadoezy&label=Profile%20views&color=0e75b6&style=flat" alt="malvadoezy" /> </p>
-
-- 👯 I’m looking to collaborate on [uRP](https://github.com/Underground-Roleplay/framework)       <img src="https://wakatime.com/badge/user/c8dbad0a-9f32-401b-a7f3-6b37eb0e17df.svg" alt="wakatime">
+<img src="https://wakatime.com/badge/user/c8dbad0a-9f32-401b-a7f3-6b37eb0e17df.svg" alt="wakatime">
 
 - 👨‍💻 All of my projects are available at [https://github.com/MalvadoEZY](https://github.com/MalvadoEZY)
 
